@@ -14,6 +14,7 @@
                  [com.andrewmcveigh/cljs-time "0.5.2"]
                  [net.cgrand/macrovich "0.2.1"]
                  [mvxcvi/puget "1.0.2" :exclusions [brandonbloom/fipp]]
+                 [org.clojure/core.rrb-vector "0.0.13"]
                  [bigml/fipp "0.6.8"]]
 
 
